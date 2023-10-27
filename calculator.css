@@ -1,0 +1,36 @@
+body{
+    background-color: blanchedalmond;
+}
+#cent{
+    color: cadetblue;
+}
+#calc{
+    border: 1px solid red;
+    width: 200px;
+    border-radius: 5px;
+    margin-left: 45%;
+    margin-top: 200px;
+}
+#display{
+    margin: 10px;
+    width: 85%;
+    font-size:30px;
+    background-color: black;
+    color: white;
+
+}
+
+.button{
+
+    height: 50px;
+    width: 60px;
+
+}
+.buttons{
+    
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-color: maroon;
+    
+}
